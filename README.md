@@ -78,8 +78,8 @@
   <a href="https://github.com/AnonyArt/Devilart/wiki">
       <img src="https://img.shields.io/badge/wiki-Devilart-lightgrey">
  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/twitter-AnonyArt-blue.svg">
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/instagram-AnonyArt-blue.svg">
  </a>
 </p>
 
