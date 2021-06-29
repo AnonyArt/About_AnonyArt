@@ -22,7 +22,7 @@
 <br/>
 
 
-**I am Into Gais, 🙏**
+**I am Intro Gais, 🙏**
 <br/>
 **Machine Learning, Web Development , Design & Basic Programming**
 
